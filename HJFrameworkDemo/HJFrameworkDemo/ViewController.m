@@ -22,6 +22,7 @@
     window.rootViewController = [[HJTabBarController alloc] init];
     
     
+    NSLog(@"sdadsada");
 }
 
 
